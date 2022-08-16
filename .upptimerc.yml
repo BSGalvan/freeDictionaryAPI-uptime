@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /freeDictionaryAPI-uptime
   logoUrl: https://dictionaryapi.dev/favicon.ico
-  name: Upptime
+  name: Free Dictionary API
   introTitle: "**FreeDictionaryAPI** is a free and open-source dictionary API."
   introMessage: Our mission is to provide users with an API that they can use to build a game, learning application, or next-generation speech and text technology. This status page uses **real-time** data from our [GitHub repository](https://github.com/BSGalvan/freeDictionaryAPI-uptime). No server required — just GitHub Actions, Issues, and Pages. Get your own _for free_ [here](https://github.com/upptime/upptime).
   navbar:
