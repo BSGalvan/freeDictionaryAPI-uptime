@@ -1,6 +1,6 @@
 # [📈 Live Status](https://BSGalvan.github.io/freeDictionaryAPI-uptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Bharath Saiguhan](https://BSGalvan.github.io/freeDictionaryAPI-uptime), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for the [FreeDictionary API](https://BSGalvan.github.io/freeDictionaryAPI-uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/BSGalvan/freeDictionaryAPI-uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/BSGalvan/freeDictionaryAPI-uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/BSGalvan/freeDictionaryAPI-uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/BSGalvan/freeDictionaryAPI-uptime/actions?query=workflow%3A%22Response+Time+CI%22)
