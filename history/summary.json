@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 253,
-    "timeWeek": 232,
+    "time": 218,
+    "timeDay": 252,
+    "timeWeek": 221,
     "timeMonth": 227,
-    "timeYear": 217,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/api.dictionaryapi.dev",
     "slug": "get-to-api-endpoint",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "99.64%",
-    "time": 196,
-    "timeDay": 223,
-    "timeWeek": 179,
+    "uptimeYear": "99.65%",
+    "time": 194,
+    "timeDay": 107,
+    "timeWeek": 162,
     "timeMonth": 186,
-    "timeYear": 196,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2022-09-01": 194
     }
