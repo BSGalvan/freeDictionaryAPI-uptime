@@ -22,7 +22,7 @@
     "url": "https://api.dictionaryapi.dev/api/v2/entries/en/hello",
     "icon": "https://icons.duckduckgo.com/ip3/api.dictionaryapi.dev.ico",
     "slug": "get-to-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.42%",
@@ -34,6 +34,7 @@
     "timeMonth": 203,
     "timeYear": 205,
     "dailyMinutesDown": {
+      "2023-01-30": 0,
       "2023-01-26": 361,
       "2023-01-02": 534,
       "2023-01-01": 47,
