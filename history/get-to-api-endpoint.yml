@@ -1,7 +1,7 @@
 url: https://api.dictionaryapi.dev/api/v2/entries/en/hello
 status: up
 code: 200
-responseTime: 73
-lastUpdated: 2023-12-22T23:15:29.857Z
+responseTime: 161
+lastUpdated: 2023-12-23T23:13:57.271Z
 startTime: 2022-08-16T09:41:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
