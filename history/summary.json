@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 174,
-    "timeDay": 132,
+    "timeDay": 117,
     "timeWeek": 166,
-    "timeMonth": 168,
+    "timeMonth": 167,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2024-05-05": 105,
-      "2024-03-30": 18,
-      "2024-01-06": 18
+      "2024-03-30": 18
     }
   },
   {
@@ -27,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dictionaryapi.dev.ico",
     "slug": "get-to-api-endpoint",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 388,
-    "timeDay": 232,
-    "timeWeek": 136,
-    "timeMonth": 137,
-    "timeYear": 428,
+    "timeDay": 55,
+    "timeWeek": 121,
+    "timeMonth": 133,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2024-05-05": 69,
       "2024-04-30": 319,
