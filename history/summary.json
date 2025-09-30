@@ -4,18 +4,20 @@
     "url": "https://dictionaryapi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dictionaryapi.dev.ico",
     "slug": "free-dictionary-api-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 457,
-    "timeWeek": 285,
+    "timeDay": 380,
+    "timeWeek": 279,
     "timeMonth": 240,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-30": 12
+    }
   },
   {
     "name": "GET to API Endpoint",
