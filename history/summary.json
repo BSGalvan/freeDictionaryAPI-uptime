@@ -6,18 +6,16 @@
     "slug": "free-dictionary-api-landing-page",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 380,
-    "timeWeek": 279,
-    "timeMonth": 240,
+    "timeDay": 304,
+    "timeWeek": 276,
+    "timeMonth": 241,
     "timeYear": 210,
-    "dailyMinutesDown": {
-      "2025-09-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GET to API Endpoint",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 98,
-    "timeWeek": 119,
-    "timeMonth": 143,
+    "timeDay": 123,
+    "timeWeek": 116,
+    "timeMonth": 142,
     "timeYear": 139,
     "dailyMinutesDown": {}
   }
