@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 441,
-    "timeWeek": 306,
-    "timeMonth": 247,
-    "timeYear": 211,
+    "timeDay": 394,
+    "timeWeek": 315,
+    "timeMonth": 255,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,15 @@
     "slug": "get-to-api-endpoint",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 495,
-    "timeWeek": 352,
-    "timeMonth": 219,
+    "timeDay": 501,
+    "timeWeek": 364,
+    "timeMonth": 221,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2025-10-02": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
