@@ -24,9 +24,9 @@
     "slug": "get-to-api-endpoint",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "94.73%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 453,
     "timeDay": 9885,
@@ -34,7 +34,7 @@
     "timeMonth": 3245,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2025-10-16": 76
+      "2025-10-16": 69
     }
   }
 ]
