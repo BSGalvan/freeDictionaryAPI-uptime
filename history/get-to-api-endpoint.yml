@@ -1,7 +1,7 @@
 url: https://api.dictionaryapi.dev/api/v2/entries/en/hello
-status: down
-code: 522
-responseTime: 19658
-lastUpdated: 2025-10-20T22:47:36.844Z
+status: up
+code: 200
+responseTime: 19462
+lastUpdated: 2025-10-20T22:59:30.385Z
 startTime: 2022-08-16T09:41:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
