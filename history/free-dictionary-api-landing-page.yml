@@ -1,7 +1,7 @@
 url: https://dictionaryapi.dev
-status: up
-code: 200
-responseTime: 137
-lastUpdated: 2025-11-18T14:35:49.725Z
+status: down
+code: 500
+responseTime: 151
+lastUpdated: 2025-11-18T14:49:15.971Z
 startTime: 2022-08-16T09:30:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
