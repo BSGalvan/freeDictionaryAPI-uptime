@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dictionaryapi.dev.ico",
     "slug": "get-to-api-endpoint",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "94.40%",
-    "uptimeYear": "98.92%",
+    "uptime": "99.68%",
+    "uptimeDay": "90.14%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "94.08%",
+    "uptimeYear": "98.90%",
     "time": 4435,
     "timeDay": 19686,
     "timeWeek": 21752,
@@ -55,7 +55,7 @@
       "2026-09-08": 26,
       "2026-09-16": 70,
       "2026-09-15": 20,
-      "2026-09-17": 0
+      "2026-09-17": 142
     }
   }
 ]
