@@ -24,17 +24,17 @@
     "url": "https://api.dictionaryapi.dev/api/v2/entries/en/hello",
     "icon": "https://icons.duckduckgo.com/ip3/api.dictionaryapi.dev.ico",
     "slug": "get-to-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "52.08%",
+    "uptimeDay": "68.20%",
     "uptimeWeek": "77.21%",
     "uptimeMonth": "91.59%",
     "uptimeYear": "98.24%",
     "time": 5091,
-    "timeDay": 107,
-    "timeWeek": 3170,
-    "timeMonth": 12995,
-    "timeYear": 5968,
+    "timeDay": 87,
+    "timeWeek": 3014,
+    "timeMonth": 12746,
+    "timeYear": 5959,
     "dailyMinutesDown": {
       "2025-10-16": 69,
       "2025-10-17": 417,
@@ -67,7 +67,8 @@
       "2026-10-08": 63,
       "2026-10-07": 162,
       "2026-10-09": 263,
-      "2026-10-10": 926
+      "2026-10-10": 926,
+      "2026-10-11": 0
     }
   }
 ]
