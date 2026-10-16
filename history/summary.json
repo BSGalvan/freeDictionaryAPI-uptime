@@ -14,7 +14,7 @@
     "timeDay": 278,
     "timeWeek": 355,
     "timeMonth": 222,
-    "timeYear": 221,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2025-11-18": 128
     }
@@ -24,17 +24,17 @@
     "url": "https://api.dictionaryapi.dev/api/v2/entries/en/hello",
     "icon": "https://icons.duckduckgo.com/ip3/api.dictionaryapi.dev.ico",
     "slug": "get-to-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "85.82%",
-    "uptimeWeek": "77.61%",
+    "uptimeDay": "85.81%",
+    "uptimeWeek": "78.21%",
     "uptimeMonth": "88.91%",
     "uptimeYear": "98.01%",
     "time": 5189,
-    "timeDay": 6724,
-    "timeWeek": 4798,
-    "timeMonth": 10500,
-    "timeYear": 5972,
+    "timeDay": 5063,
+    "timeWeek": 3864,
+    "timeMonth": 10329,
+    "timeYear": 5905,
     "dailyMinutesDown": {
       "2025-10-17": 417,
       "2025-10-18": 510,
