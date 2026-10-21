@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 234,
-    "timeDay": 259,
-    "timeWeek": 227,
+    "timeDay": 263,
+    "timeWeek": 210,
     "timeMonth": 233,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -26,15 +26,15 @@
     "slug": "get-to-api-endpoint",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "84.52%",
-    "uptimeMonth": "88.06%",
-    "uptimeYear": "98.39%",
+    "uptimeDay": "91.56%",
+    "uptimeWeek": "83.49%",
+    "uptimeMonth": "87.78%",
+    "uptimeYear": "98.38%",
     "time": 5273,
-    "timeDay": 127,
-    "timeWeek": 3080,
+    "timeDay": 106,
+    "timeWeek": 3232,
     "timeMonth": 7605,
-    "timeYear": 3300,
+    "timeYear": 3225,
     "dailyMinutesDown": {
       "2025-11-18": 160,
       "2026-01-26": 29,
@@ -69,7 +69,7 @@
       "2026-10-17": 201,
       "2026-10-18": 358,
       "2026-10-19": 55,
-      "2026-10-21": 0
+      "2026-10-21": 121
     }
   }
 ]
