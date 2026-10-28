@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 234,
-    "timeDay": 173,
-    "timeWeek": 181,
-    "timeMonth": 226,
+    "timeDay": 94,
+    "timeWeek": 157,
+    "timeMonth": 221,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-11-18": 128
@@ -24,17 +24,17 @@
     "url": "https://api.dictionaryapi.dev/api/v2/entries/en/hello",
     "icon": "https://icons.duckduckgo.com/ip3/api.dictionaryapi.dev.ico",
     "slug": "get-to-api-endpoint",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "81.40%",
-    "uptimeMonth": "84.09%",
-    "uptimeYear": "98.06%",
-    "time": 4901,
-    "timeDay": 109,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "80.57%",
+    "uptimeMonth": "83.81%",
+    "uptimeYear": "98.03%",
+    "time": 4868,
+    "timeDay": 87,
     "timeWeek": 127,
-    "timeMonth": 4308,
-    "timeYear": 2992,
+    "timeMonth": 4060,
+    "timeYear": 2986,
     "dailyMinutesDown": {
       "2025-11-18": 160,
       "2026-01-26": 29,
@@ -74,7 +74,8 @@
       "2026-10-24": 411,
       "2026-10-23": 119,
       "2026-10-25": 295,
-      "2026-10-27": 0
+      "2026-10-28": 122,
+      "2026-10-27": 1
     }
   }
 ]
